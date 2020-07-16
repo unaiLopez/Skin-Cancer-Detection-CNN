@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\unai1\\Desktop\\IA\\Cancer_Project\\skinbenignvsmalign-0.001-7CNN.model"
+all_model_checkpoint_paths: "C:\\Users\\unai1\\Desktop\\IA\\Cancer_Project\\skinbenignvsmalign-0.001-7CNN.model"
